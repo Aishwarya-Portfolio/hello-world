@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, This is my Tomcat Webapp</h1>
-   <h1>Deployed using Jenkins<h1>
-   <b>Hurrah...</b>
+   <h1> Deployed using Jenkins <h1>
+   <b> Hurrah... </b>
 </form>
