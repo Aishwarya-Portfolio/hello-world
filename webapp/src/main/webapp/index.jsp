@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning </h1>
-   <h1>Build Amazing Carrer With Devops <h1>
-   <b> I appreciate</b>
+   <h1> Thankyou, This is my Tomcat Webapp</h1>
+   <h1>Deployed using Jenkins<h1>
+   <b>Hurrah...</b>
 </form>
